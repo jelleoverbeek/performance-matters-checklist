@@ -54,7 +54,7 @@
 
 ### Images
 
-*   Add some more points here...
+*   Add multiple image sizes and compress them.
 
 ### CSS
 
